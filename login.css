@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blue;
+    color: white;
+
+}
+.header-1{
+    flex: 60%;
+}
+.header-2{
+    display: flex;
+    flex: 40%;
+    flex-wrap: wrap;
+}
+.col-1{
+    flex: 33%;
+
+}
+.logo{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.a1{
+    color: white;
+    text-decoration: none;
+
+}
+.btn-1{
+    width: 50px;
+    color: white;
+    background-color: rgba(4, 4, 224, 0.918);
+    /* font-size:20px; */
+    margin-top: 18px;
+}
+.main{
+    display: flex;
+    background-color: #eceaff;
+
+}
+.text-1{
+    width: 50%;
+}
+.p1{
+    margin-top: 40px;
+    margin-left: 20px;
+    color: blue;
+    font-size: 25px;
+}
+.image{
+    margin-top: -20px;
+}
+.h-3{
+    color: blue;
+    margin-top: 40px;
+    margin-bottom: 4px;
+}
+.p2{
+    color: blue;
+    margin-bottom: 10px;
+}
+hr{
+    margin-bottom: 20px;
+}
+.Main-label{
+    display: flex;
+}
+.label-1{
+    width: 105px;
+    display: inline-block;
+}
+
+.inp1{
+    display: inline;
+    width: 300px;
+    padding: 5px;
+    margin: 2px;
+}
+.gender{
+    display: flex;
+    margin-top: 4px;
+    
+}
+.gender-1{
+    margin-left: 71px;
+}
+.gender-2{
+    margin-left: 6px;
+    /* position: fixed; */
+}
+.celebration{
+    display: flex;
+    margin-top: 4px;
+}
+.birth{
+    margin-left: 45px;
+}
+.Year{
+    margin-left: 110px;
+    position: fixed;
+}
+.a2{
+    text-decoration: none;
+    margin-left: 107px;
+    font-size: 13px;
+}
+.condition{
+    margin-left: 107px;
+    width: 331px;
+    margin-top: 12px;
+}
+.btn-2{
+    padding: 8px;
+    width: 109px;
+    background-color: green;
+    color: white;
+    margin-top: 16px;
+    margin-bottom: 10px;
+    margin-left: 107px;
+    border: 1px solid black;
+}
+.page{
+    margin-top: -10px;
+    margin-left: 40px;
+}
+.page a{
+    text-decoration: none;
+}
+.hr1{
+    width: 62%;
+}
+.lang {
+    margin-top: 6px;
+}
+.lang a{
+    text-decoration: none;
+    padding: 7px;
+}
+hr{
+    margin-top: 5px;
+}
